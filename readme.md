@@ -1,4 +1,4 @@
-![cover](public\Local-Storage-Editor.svg)
+![cover](https://krzysztof-kozak.github.io/simple-editor/Local-Storage-Editor.svg)
 
 # Simple Local Storage Editor
 
